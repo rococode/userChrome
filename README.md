@@ -1,14 +1,18 @@
-# rococo firefox
+## rococo's firefox
 
 My personal `chrome\` folder for Firefox! Contains some custom styles I've written to make Firefox prettier.
 
 ## Installation
 
-If you'd like to use my style, go to your Firefox profile folder. You can get the URL by navigating to `about:profiles` and opening the `Root Directory` folder.
+If you'd like to use my style, first go to your Firefox profile folder.
 
-Once in the profile folder, clone this repository with `git clone https://github.com/rococode/userChrome.git` or `git clone git@github.com:rococode/userChrome.git`.
+You can get the location of your profile by navigating to `about:profiles` and opening the `Root Directory` folder.
 
-Rename the cloned folder from `userChrome` to `chrome`. Restart Firefox and it should be ready!
+Once in the profile folder, clone this repository with `git clone https://github.com/rococode/userChrome.git`.
+
+(You can also just download this repo as a .zip and copy the files over.)
+
+Rename the cloned folder from `userChrome` to `chrome`. Restart Firefox and it should be set up!
 
 ## Changes
 
