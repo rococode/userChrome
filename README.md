@@ -24,4 +24,10 @@ I really disliked the purple on every new tab in private mode. Here's a light re
 
 ![](./1.png)
 
+2. Disable blue active tab highlight:
+
+I prefer my active tab to not have the little blue highlight above it.
+
+![](./2.png)
+
 
